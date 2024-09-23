@@ -1,3 +1,4 @@
 mydata.txt
 ideogram_requests/**
 **/*.json
+myPrompts/**
