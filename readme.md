@@ -35,3 +35,6 @@ How to do this
 10. Copy the entire value of the Cookie header. (right-click and do "copy value" or similar.  Put that into this script below where it says YOUR_COOKIE
 11. Also update your username like below, by replacing YOUR_USERNAME with your actual username
 12. Then you can run this script. It'll create a subfolder which will have the json files for all your public/private history of requests to ideogram.
+
+![image](https://github.com/user-attachments/assets/d9d19b54-d538-4281-939b-539cdcd50815)
+
